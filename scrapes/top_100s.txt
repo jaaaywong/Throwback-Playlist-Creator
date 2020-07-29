@@ -1,0 +1,400 @@
+Rank: 1
+Song: Promiscuous
+Artist: Nelly Furtado Featuring Timbaland
+
+Rank: 2
+Song: Crazy
+Artist: Gnarls Barkley
+
+Rank: 3
+Song: Me & U
+Artist: Cassie
+
+Rank: 4
+Song: Buttons
+Artist: The Pussycat Dolls Featuring Snoop Dogg
+
+Rank: 5
+Song: It's Goin' Down
+Artist: Yung Joc
+
+Rank: 6
+Song: Hips Don't Lie
+Artist: Shakira Featuring Wyclef Jean
+
+Rank: 7
+Song: Unfaithful
+Artist: Rihanna
+
+Rank: 8
+Song: Ain't No Other Man
+Artist: Christina Aguilera
+
+Rank: 9
+Song: Over My Head (Cable Car)
+Artist: The Fray
+
+Rank: 10
+Song: Snap Yo Fingers
+Artist: Lil Jon Featuring E-40 & Sean Paul Of The YoungBloodZ
+
+Rank: 11
+Song: I Write Sins Not Tragedies
+Artist: Panic! At The Disco
+
+Rank: 12
+Song: So What
+Artist: Field Mob Featuring Ciara
+
+Rank: 13
+Song: Do It To It
+Artist: Cherish Featuring Sean Paul Of The YoungBloodZ
+
+Rank: 14
+Song: Ridin'
+Artist: Chamillionaire Featuring Krayzie Bone
+
+Rank: 15
+Song: Shoulder Lean
+Artist: Young Dro Featuring T.I.
+
+Rank: 16
+Song: Bossy
+Artist: Kelis Featuring Too $hort
+
+Rank: 17
+Song: (When You Gonna) Give It Up To Me
+Artist: Sean Paul Feat. Keyshia Cole
+
+Rank: 18
+Song: U And Dat
+Artist: E-40 Featuring T-Pain & Kandi Girl
+
+Rank: 19
+Song: Sexy Love
+Artist: Ne-Yo
+
+Rank: 20
+Song: Dani California
+Artist: Red Hot Chili Peppers
+
+Rank: 21
+Song: Waiting On The World To Change
+Artist: John Mayer
+
+Rank: 22
+Song: Bad Day
+Artist: Daniel Powter
+
+Rank: 23
+Song: Move Along
+Artist: The All-American Rejects
+
+Rank: 24
+Song: Life Is A Highway
+Artist: Rascal Flatts
+
+Rank: 25
+Song: Call On Me
+Artist: Janet & Nelly
+
+Rank: 26
+Song: Black Horse & The Cherry Tree
+Artist: KT Tunstall
+
+Rank: 27
+Song: Savin' Me
+Artist: Nickelback
+
+Rank: 28
+Song: Invisible
+Artist: Ashlee Simpson
+
+Rank: 29
+Song: Stars Are Blind
+Artist: Paris Hilton
+
+Rank: 30
+Song: A Public Affair
+Artist: Jessica Simpson
+
+Rank: 31
+Song: Why You Wanna
+Artist: T.I.
+
+Rank: 32
+Song: Deja Vu
+Artist: Beyonce Featuring Jay Z
+
+Rank: 33
+Song: SOS
+Artist: Rihanna
+
+Rank: 34
+Song: Unwritten
+Artist: Natasha Bedingfield
+
+Rank: 35
+Song: What's Left Of Me
+Artist: Nick Lachey
+
+Rank: 36
+Song: Where'd You Go
+Artist: Fort Minor Featuring Holly Brook
+
+Rank: 37
+Song: Pullin' Me Back
+Artist: Chingy Featuring Tyrese
+
+Rank: 38
+Song: Temperature
+Artist: Sean Paul
+
+Rank: 39
+Song: Gimme That
+Artist: Chris Brown Featuring Lil Wayne
+
+Rank: 40
+Song: If You're Going Through Hell (Before The Devil Even Knows)
+Artist: Rodney Atkins
+
+Rank: 41
+Song: Summertime
+Artist: Kenny Chesney
+
+Rank: 42
+Song: I Know You See It
+Artist: Yung Joc Featuring Brandy 'Ms. B.' Hambrick
+
+Rank: 43
+Song: Leave The Pieces
+Artist: The Wreckers
+
+Rank: 44
+Song: Torn
+Artist: LeToya
+
+Rank: 45
+Song: What Hurts The Most
+Artist: Rascal Flatts
+
+Rank: 46
+Song: Miss Murder
+Artist: AFI
+
+Rank: 47
+Song: Walk Away
+Artist: Kelly Clarkson
+
+Rank: 48
+Song: Doing Too Much
+Artist: Paula DeAnda Featuring Baby Bash
+
+Rank: 49
+Song: The World
+Artist: Brad Paisley
+
+Rank: 50
+Song: Me And My Gang
+Artist: Rascal Flatts
+
+Rank: 51
+Song: I Love My B****
+Artist: Busta Rhymes Featuring will.i.am & Kelis
+
+Rank: 52
+Song: Hate Me
+Artist: Blue October
+
+Rank: 53
+Song: Brand New Girlfriend
+Artist: Steve Holy
+
+Rank: 54
+Song: A Little Too Late
+Artist: Toby Keith
+
+Rank: 55
+Song: Do I Make You Proud
+Artist: Taylor Hicks
+
+Rank: 56
+Song: Don't Forget To Remember Me
+Artist: Carrie Underwood
+
+Rank: 57
+Song: Enough Cryin
+Artist: Mary J. Blige Featuring Brook-Lyn
+
+Rank: 58
+Song: MakeDamnSure
+Artist: Taking Back Sunday
+
+Rank: 59
+Song: How To Save A Life
+Artist: The Fray
+
+Rank: 60
+Song: Crazy Bitch
+Artist: Buckcherry
+
+Rank: 61
+Song: Life Ain't Always Beautiful
+Artist: Gary Allan
+
+Rank: 62
+Song: Hustlin'
+Artist: Rick Ross
+
+Rank: 63
+Song: Animal I Have Become
+Artist: Three Days Grace
+
+Rank: 64
+Song: Bring It On Home
+Artist: Little Big Town
+
+Rank: 65
+Song: Stay With You
+Artist: Goo Goo Dolls
+
+Rank: 66
+Song: SexyBack
+Artist: Justin Timberlake
+
+Rank: 67
+Song: Would You Go With Me
+Artist: Josh Turner
+
+Rank: 68
+Song: When The Stars Go Blue
+Artist: Tim McGraw
+
+Rank: 69
+Song: Chasing Cars
+Artist: Snow Patrol
+
+Rank: 70
+Song: Breathe (2 AM)
+Artist: Anna Nalick
+
+Rank: 71
+Song: Every Time I Hear Your Name
+Artist: Keith Anderson
+
+Rank: 72
+Song: Far Away
+Artist: Nickelback
+
+Rank: 73
+Song: Somewhere Over The Rainbow
+Artist: Katharine McPhee
+
+Rank: 74
+Song: Put Your Records On
+Artist: Corinne Bailey Rae
+
+Rank: 75
+Song: Not Ready To Make Nice
+Artist: Dixie Chicks
+
+Rank: 76
+Song: Swing
+Artist: Trace Adkins
+
+Rank: 77
+Song: Lips Of An Angel
+Artist: Hinder
+
+Rank: 78
+Song: Scotty Doesn't Know
+Artist: Lustra
+
+Rank: 79
+Song: Original Fire
+Artist: Audioslave
+
+Rank: 80
+Song: Steady, As She Goes
+Artist: The Raconteurs
+
+Rank: 81
+Song: Last Day Of My Life
+Artist: Phil Vassar
+
+Rank: 82
+Song: Labios Compartidos
+Artist: Mana
+
+Rank: 83
+Song: Let U Go
+Artist: Ashley Parker Angel
+
+Rank: 84
+Song: London Bridge
+Artist: Fergie
+
+Rank: 85
+Song: How 'Bout You
+Artist: Eric Church
+
+Rank: 86
+Song: The Kill (Bury Me)
+Artist: 30 Seconds To Mars
+
+Rank: 87
+Song: Sunshine And Summertime
+Artist: Faith Hill
+
+Rank: 88
+Song: Is It Any Wonder?
+Artist: Keane
+
+Rank: 89
+Song: Yee Haw
+Artist: Jake Owen
+
+Rank: 90
+Song: Suddenly I See
+Artist: KT Tunstall
+
+Rank: 91
+Song: Building Bridges
+Artist: Brooks & Dunn With Sheryl Crow & Vince Gill
+
+Rank: 92
+Song: Who Said
+Artist: Hannah Montana
+
+Rank: 93
+Song: Face Down
+Artist: The Red Jumpsuit Apparatus
+
+Rank: 94
+Song: DJ Play A Love Song
+Artist: Jamie Foxx Featuring Twista
+
+Rank: 95
+Song: I Call It Love
+Artist: Lionel Richie
+
+Rank: 96
+Song: Coming Undone
+Artist: Korn
+
+Rank: 97
+Song: Number One
+Artist: Pharrell Featuring Kanye West
+
+Rank: 98
+Song: Gettin' Some
+Artist: Shawnna
+
+Rank: 99
+Song: S.E.X.
+Artist: Lyfe Jennings
+
+Rank: 100
+Song: Why, Why, Why
+Artist: Billy Currington
+

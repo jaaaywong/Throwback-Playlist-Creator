@@ -1,0 +1,400 @@
+Rank: 1
+Song: We Belong Together
+Artist: Mariah Carey
+
+Rank: 2
+Song: Pon de Replay
+Artist: Rihanna
+
+Rank: 3
+Song: Don't Cha
+Artist: The Pussycat Dolls Featuring Busta Rhymes
+
+Rank: 4
+Song: Let Me Hold You
+Artist: Bow Wow Featuring Omarion
+
+Rank: 5
+Song: Lose Control
+Artist: Missy Elliott Featuring Ciara & Fat Man Scoop
+
+Rank: 6
+Song: Hollaback Girl
+Artist: Gwen Stefani
+
+Rank: 7
+Song: Behind These Hazel Eyes
+Artist: Kelly Clarkson
+
+Rank: 8
+Song: You And Me
+Artist: Lifehouse
+
+Rank: 9
+Song: Don't Phunk With My Heart
+Artist: The Black Eyed Peas
+
+Rank: 10
+Song: Listen To Your Heart
+Artist: D.H.T.
+
+Rank: 11
+Song: Pimpin' All Over The World
+Artist: Ludacris Featuring Bobby Valentino
+
+Rank: 12
+Song: Get It Poppin'
+Artist: Fat Joe Featuring Nelly
+
+Rank: 13
+Song: Grind With Me
+Artist: Pretty Ricky
+
+Rank: 14
+Song: Cater 2 U
+Artist: Destiny's Child
+
+Rank: 15
+Song: Feel Good Inc
+Artist: Gorillaz
+
+Rank: 16
+Song: Scars
+Artist: Papa Roach
+
+Rank: 17
+Song: Just A Lil Bit
+Artist: 50 Cent
+
+Rank: 18
+Song: Beverly Hills
+Artist: Weezer
+
+Rank: 19
+Song: Shake It Off
+Artist: Mariah Carey
+
+Rank: 20
+Song: Best Of You
+Artist: Foo Fighters
+
+Rank: 21
+Song: Holiday
+Artist: Green Day
+
+Rank: 22
+Song: Switch
+Artist: Will Smith
+
+Rank: 23
+Song: These Words
+Artist: Natasha Bedingfield
+
+Rank: 24
+Song: Back Then
+Artist: Mike Jones
+
+Rank: 25
+Song: Oh
+Artist: Ciara Featuring Ludacris
+
+Rank: 26
+Song: Cool
+Artist: Gwen Stefani
+
+Rank: 27
+Song: Speed Of Sound
+Artist: Coldplay
+
+Rank: 28
+Song: Since U Been Gone
+Artist: Kelly Clarkson
+
+Rank: 29
+Song: As Good As I Once Was
+Artist: Toby Keith
+
+Rank: 30
+Song: Sugar, We're Goin' Down
+Artist: Fall Out Boy
+
+Rank: 31
+Song: Lonely No More
+Artist: Rob Thomas
+
+Rank: 32
+Song: Mississippi Girl
+Artist: Faith Hill
+
+Rank: 33
+Song: Give Me That
+Artist: Webbie Featuring Bun B
+
+Rank: 34
+Song: Mr. Brightside
+Artist: The Killers
+
+Rank: 35
+Song: Something More
+Artist: Sugarland
+
+Rank: 36
+Song: Let Me Go
+Artist: 3 Doors Down
+
+Rank: 37
+Song: Inside Your Heaven
+Artist: Carrie Underwood
+
+Rank: 38
+Song: Make Her Feel Good
+Artist: Teairra Mari
+
+Rank: 39
+Song: Baby I'm Back
+Artist: Baby Bash Featuring Akon
+
+Rank: 40
+Song: These Boots Are Made For Walkin'
+Artist: Jessica Simpson
+
+Rank: 41
+Song: Summer Nights
+Artist: Lil Rob
+
+Rank: 42
+Song: How To Deal
+Artist: Frankie J
+
+Rank: 43
+Song: Collide
+Artist: Howie Day
+
+Rank: 44
+Song: Free Yourself
+Artist: Fantasia
+
+Rank: 45
+Song: Must Be Nice
+Artist: Lyfe Jennings
+
+Rank: 46
+Song: La Tortura
+Artist: Shakira Feat. Alejandro Sanz
+
+Rank: 47
+Song: Play
+Artist: David Banner
+
+Rank: 48
+Song: Chariot
+Artist: Gavin DeGraw
+
+Rank: 49
+Song: Like You
+Artist: Bow Wow Featuring Ciara
+
+Rank: 50
+Song: Diamonds From Sierra Leone
+Artist: Kanye West
+
+Rank: 51
+Song: Incomplete
+Artist: Backstreet Boys
+
+Rank: 52
+Song: Just The Girl
+Artist: The Click Five
+
+Rank: 53
+Song: Badd
+Artist: Ying Yang Twins Featuring Mike Jones & Mr. ColliPark
+
+Rank: 54
+Song: Fast Cars And Freedom
+Artist: Rascal Flatts
+
+Rank: 55
+Song: Dreams
+Artist: The Game
+
+Rank: 56
+Song: So Seductive
+Artist: Tony Yayo Featuring 50 Cent
+
+Rank: 57
+Song: A Real Fine Place To Start
+Artist: Sara Evans
+
+Rank: 58
+Song: Breathe (2 AM)
+Artist: Anna Nalick
+
+Rank: 59
+Song: Outta Control (Remix)
+Artist: 50 Cent Feat. Mobb Deep
+
+Rank: 60
+Song: Don't Worry 'Bout A Thing
+Artist: SHeDAISY
+
+Rank: 61
+Song: Gotta Getcha
+Artist: Jermaine Dupri
+
+Rank: 62
+Song: Gold Digger
+Artist: Kanye West Featuring Jamie Foxx
+
+Rank: 63
+Song: Making Memories Of Us
+Artist: Keith Urban
+
+Rank: 64
+Song: Dem Boyz
+Artist: Boyz N Da Hood
+
+Rank: 65
+Song: Untitled (How Can This Happen To Me?)
+Artist: Simple Plan
+
+Rank: 66
+Song: Inside Your Heaven
+Artist: Bo Bice
+
+Rank: 67
+Song: This Is How A Heart Breaks
+Artist: Rob Thomas
+
+Rank: 68
+Song: Play Something Country
+Artist: Brooks & Dunn
+
+Rank: 69
+Song: And Then What
+Artist: Young Jeezy Featuring Mannie Fresh
+
+Rank: 70
+Song: Do You Want Fries With That
+Artist: Tim McGraw
+
+Rank: 71
+Song: Tell Me
+Artist: Bobby Valentino
+
+Rank: 72
+Song: Alcohol
+Artist: Brad Paisley
+
+Rank: 73
+Song: B.Y.O.B.
+Artist: System Of A Down
+
+Rank: 74
+Song: Welcome To Jamrock
+Artist: Damian "Jr. Gong" Marley
+
+Rank: 75
+Song: Helena (So Long & Goodnight)
+Artist: My Chemical Romance
+
+Rank: 76
+Song: Help Somebody
+Artist: Van Zant
+
+Rank: 77
+Song: Charlie Last Name: Wilson
+Artist: Charlie Wilson
+
+Rank: 78
+Song: Trapped In The Closet
+Artist: R. Kelly
+
+Rank: 79
+Song: Right Here
+Artist: Staind
+
+Rank: 80
+Song: Pickin' Wildflowers
+Artist: Keith Anderson
+
+Rank: 81
+Song: Don't Lie
+Artist: The Black Eyed Peas
+
+Rank: 82
+Song: The Hand That Feeds
+Artist: Nine Inch Nails
+
+Rank: 83
+Song: Your Body
+Artist: Pretty Ricky
+
+Rank: 84
+Song: Playa's Only
+Artist: R. Kelly Featuring The Game
+
+Rank: 85
+Song: I Can't Stop Loving You
+Artist: Kem
+
+Rank: 86
+Song: Redneck Yacht Club
+Artist: Craig Morgan
+
+Rank: 87
+Song: Be My Escape
+Artist: Relient K
+
+Rank: 88
+Song: You'll Be There
+Artist: George Strait
+
+Rank: 89
+Song: Gotta Make It
+Artist: Trey Songz Featuring Twista
+
+Rank: 90
+Song: Somebody's Hero
+Artist: Jamie O'Neal
+
+Rank: 91
+Song: Wordplay
+Artist: Jason Mraz
+
+Rank: 92
+Song: Something To Be Proud Of
+Artist: Montgomery Gentry
+
+Rank: 93
+Song: Go!
+Artist: Common
+
+Rank: 94
+Song: Wake Me Up When September Ends
+Artist: Green Day
+
+Rank: 95
+Song: Girl
+Artist: Destiny's Child
+
+Rank: 96
+Song: Home
+Artist: Michael Buble
+
+Rank: 97
+Song: I'm A King
+Artist: P$C Featuring T.I. & Lil Scrappy
+
+Rank: 98
+Song: Belly Dancer (Bananza)
+Artist: Akon
+
+Rank: 99
+Song: Stay With Me (Brass Bed)
+Artist: Josh Gracin
+
+Rank: 100
+Song: Hicktown
+Artist: Jason Aldean
+

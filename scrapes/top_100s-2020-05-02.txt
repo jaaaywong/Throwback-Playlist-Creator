@@ -1,0 +1,400 @@
+Rank: 1
+Song: Blinding Lights
+Artist: The Weeknd
+
+Rank: 2
+Song: Toosie Slide
+Artist: Drake
+
+Rank: 3
+Song: The Box
+Artist: Roddy Ricch
+
+Rank: 4
+Song: Don't Start Now
+Artist: Dua Lipa
+
+Rank: 5
+Song: Say So
+Artist: Doja Cat Featuring Nicki Minaj
+
+Rank: 6
+Song: Circles
+Artist: Post Malone
+
+Rank: 7
+Song: Adore You
+Artist: Harry Styles
+
+Rank: 8
+Song: Intentions
+Artist: Justin Bieber Featuring Quavo
+
+Rank: 9
+Song: Rockstar
+Artist: DaBaby Featuring Roddy Ricch
+
+Rank: 10
+Song: Life Is Good
+Artist: Future Featuring Drake
+
+Rank: 11
+Song: Everything I Wanted
+Artist: Billie Eilish
+
+Rank: 12
+Song: My Oh My
+Artist: Camila Cabello Featuring DaBaby
+
+Rank: 13
+Song: The Bones
+Artist: Maren Morris
+
+Rank: 14
+Song: Savage
+Artist: Megan Thee Stallion Featuring Beyonce
+
+Rank: 15
+Song: Someone You Loved
+Artist: Lewis Capaldi
+
+Rank: 16
+Song: I Hope
+Artist: Gabby Barrett
+
+Rank: 17
+Song: Jump
+Artist: DaBaby Featuring YoungBoy Never Broke Again
+
+Rank: 18
+Song: Memories
+Artist: Maroon 5
+
+Rank: 19
+Song: Blueberry Faygo
+Artist: Lil Mosey
+
+Rank: 20
+Song: Nobody But You
+Artist: Blake Shelton Duet With Gwen Stefani
+
+Rank: 21
+Song: Chasin' You
+Artist: Morgan Wallen
+
+Rank: 22
+Song: Roses
+Artist: SAINt JHN
+
+Rank: 23
+Song: Falling
+Artist: Trevor Daniel
+
+Rank: 24
+Song: Hot Girl Bummer
+Artist: blackbear
+
+Rank: 25
+Song: High Fashion
+Artist: Roddy Ricch Featuring Mustard
+
+Rank: 26
+Song: Roxanne
+Artist: Arizona Zervas
+
+Rank: 27
+Song: Death Bed
+Artist: Powfu Featuring beabadoobee
+
+Rank: 28
+Song: Heartless
+Artist: The Weeknd
+
+Rank: 29
+Song: Heart On Ice
+Artist: Rod Wave
+
+Rank: 30
+Song: More Hearts Than Mine
+Artist: Ingrid Andress
+
+Rank: 31
+Song: Dance Monkey
+Artist: Tones And I
+
+Rank: 32
+Song: Ballin'
+Artist: Mustard & Roddy Ricch
+
+Rank: 33
+Song: Find My Way
+Artist: DaBaby
+
+Rank: 34
+Song: RITMO (Bad Boys For Life)
+Artist: The Black Eyed Peas X J Balvin
+
+Rank: 35
+Song: @ MEH
+Artist: Playboi Carti
+
+Rank: 36
+Song: I'm Ready
+Artist: Sam Smith & Demi Lovato
+
+Rank: 37
+Song: Whats Poppin
+Artist: Jack Harlow Featuring DaBaby, Tory Lanez & Lil Wayne
+
+Rank: 38
+Song: Sunday Best
+Artist: Surfaces
+
+Rank: 39
+Song: Break My Heart
+Artist: Dua Lipa
+
+Rank: 40
+Song: Does To Me
+Artist: Luke Combs Featuring Eric Church
+
+Rank: 41
+Song: 10,000 Hours
+Artist: Dan + Shay & Justin Bieber
+
+Rank: 42
+Song: I Love Me
+Artist: Demi Lovato
+
+Rank: 43
+Song: BOP
+Artist: DaBaby
+
+Rank: 44
+Song: PICK UP
+Artist: DaBaby Featuring Quavo
+
+Rank: 45
+Song: Level Of Concern
+Artist: twenty one pilots
+
+Rank: 46
+Song: Stupid Love
+Artist: Lady Gaga
+
+Rank: 47
+Song: I Hope You're Happy Now
+Artist: Carly Pearce & Lee Brice
+
+Rank: 48
+Song: No Guidance
+Artist: Chris Brown Featuring Drake
+
+Rank: 49
+Song: Hard To Forget
+Artist: Sam Hunt
+
+Rank: 50
+Song: NASTY
+Artist: DaBaby Featuring Ashanti & Megan Thee Stallion
+
+Rank: 51
+Song: Beer Can't Fix
+Artist: Thomas Rhett Featuring Jon Pardi
+
+Rank: 52
+Song: Catch
+Artist: Brett Young
+
+Rank: 53
+Song: LIGHTSKIN SH*T
+Artist: DaBaby Featuring Future & jetsonmade
+
+Rank: 54
+Song: Dior
+Artist: Pop Smoke
+
+Rank: 55
+Song: In Your Eyes
+Artist: The Weeknd
+
+Rank: 56
+Song: After A Few
+Artist: Travis Denning
+
+Rank: 57
+Song: Before You Go
+Artist: Lewis Capaldi
+
+Rank: 58
+Song: Slide
+Artist: H.E.R. Featuring YG
+
+Rank: 59
+Song: Supalonely
+Artist: BENEE Featuring Gus Dapperton
+
+Rank: 60
+Song: Sum 2 Prove
+Artist: Lil Baby
+
+Rank: 61
+Song: More Than My Hometown
+Artist: Morgan Wallen
+
+Rank: 62
+Song: BEST ON EARTH
+Artist: Russ & BIA
+
+Rank: 63
+Song: CAN'T STOP
+Artist: DaBaby
+
+Rank: 64
+Song: BLAME IT ON BABY
+Artist: DaBaby
+
+Rank: 65
+Song: Walk Em Down
+Artist: NLE Choppa Featuring Roddy Ricch
+
+Rank: 66
+Song: Godzilla
+Artist: Eminem Featuring Juice WRLD
+
+Rank: 67
+Song: Heartless
+Artist: Diplo Presents Thomas Wesley Featuring Morgan Wallen
+
+Rank: 68
+Song: Yo Perreo Sola
+Artist: Bad Bunny
+
+Rank: 69
+Song: SAD SHIT
+Artist: DaBaby
+
+Rank: 70
+Song: Tusa
+Artist: Karol G & Nicki Minaj
+
+Rank: 71
+Song: DROP
+Artist: DaBaby Featuring A Boogie Wit da Hoodie & London On Da Track
+
+Rank: 72
+Song: Out West
+Artist: JACKBOYS Featuring Young Thug
+
+Rank: 73
+Song: Slow Dance In A Parking Lot
+Artist: Jordan Davis
+
+Rank: 74
+Song: TALK ABOUT IT
+Artist: DaBaby
+
+Rank: 75
+Song: Believe It
+Artist: PARTYNEXTDOOR & Rihanna
+
+Rank: 76
+Song: P*$$y Fairy (OTW)
+Artist: Jhene Aiko
+
+Rank: 77
+Song: If The World Was Ending
+Artist: JP Saxe Featuring Julia Michaels
+
+Rank: 78
+Song: Turks
+Artist: NAV, Gunna & Travis Scott
+
+Rank: 79
+Song: Come Thru
+Artist: Summer Walker & Usher
+
+Rank: 80
+Song: You Should Be Sad
+Artist: Halsey
+
+Rank: 81
+Song: Homemade
+Artist: Jake Owen
+
+Rank: 82
+Song: Bluebird
+Artist: Miranda Lambert
+
+Rank: 83
+Song: Be A Light
+Artist: Thomas Rhett Featuring Reba McEntire, Hillary Scott, Chris Tomlin & Keith Urban
+
+Rank: 84
+Song: Emotionally Scarred
+Artist: Lil Baby
+
+Rank: 85
+Song: CHAMPION
+Artist: DaBaby
+
+Rank: 86
+Song: I Dare You
+Artist: Kelly Clarkson
+
+Rank: 87
+Song: Here And Now
+Artist: Kenny Chesney
+
+Rank: 88
+Song: Myron
+Artist: Lil Uzi Vert
+
+Rank: 89
+Song: In Between
+Artist: Scotty McCreery
+
+Rank: 90
+Song: Broke In A Minute
+Artist: Tory Lanez
+
+Rank: 91
+Song: That Way
+Artist: Lil Uzi Vert
+
+Rank: 92
+Song: After Party
+Artist: Don Toliver
+
+Rank: 93
+Song: July
+Artist: Noah Cyrus & Leon Bridges
+
+Rank: 94
+Song: Die From A Broken Heart
+Artist: Maddie & Tae
+
+Rank: 95
+Song: Ride It.
+Artist: Regard
+
+Rank: 96
+Song: Captain Hook
+Artist: Megan Thee Stallion
+
+Rank: 97
+Song: God Whispered Your Name
+Artist: Keith Urban
+
+Rank: 98
+Song: PTSD
+Artist: G Herbo Featuring Chance The Rapper, Juice WRLD & Lil Uzi Vert
+
+Rank: 99
+Song: Safaera
+Artist: Bad Bunny, Jowell & Randy & Nengo Flow
+
+Rank: 100
+Song: Girl Of My Dreams
+Artist: Rod Wave
+
